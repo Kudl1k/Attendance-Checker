@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Attendance Checker</string>
+    <string name="users">Users</string>
+    <string name="groups">Groups</string>
+    <string name="trainings">Trainings</string>
+    <string name="user_add_screen">Add user</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="surname">Surname</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="toggle_trainer">Toggle trainer</string>
+    <string name="add_user">Add user</string>
+    <string name="edit_user">Edit user</string>
+    <string name="user_has_been_added">User has been added!</string>
+    <string name="user_has_been_edited">User has been edited!</string>
+    <string name="add_group">Add group</string>
+    <string name="edit_group">Edit group</string>
+    <string name="group_name">Group name</string>
+    <string name="select_trainer">Select trainer</string>
+    <string name="add_users">Add users</string>
+    <string name="user_has_been_deleted">User has been deleted!</string>
+    <string name="no_trainer">No trainer</string>
+    <string name="trainer">Trainer</string>
+    <string name="user">User</string>
+    <string name="add_training">Add training</string>
+    <string name="edit_training">Edit training</string>
+</resources>
